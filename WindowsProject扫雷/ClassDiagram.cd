@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Gamemap">
+    <Position X="9.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAACAQAEIAFAEAAAAAAAEAhAEAAAEKAAAgQMAACBEEA=</HashCode>
+      <FileName>Direct_game\GameMap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game_controller">
+    <Position X="6.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAQCAAAAAAAgAAAEAIAgAAAAAAAAABACAAgAAAA=</HashCode>
+      <FileName>Direct_game\game_controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game_level">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAKAAAAAAgAAEACAYAAACAAAAAgAABACAAAAAAA=</HashCode>
+      <FileName>Direct_game\game_level.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics">
+    <Position X="12.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAQAgAgAAAQAAABgAAACAAAABIAIEACAAAAAAE=</HashCode>
+      <FileName>Direct_game\Graphics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level1">
+    <Position X="3.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAQAgAKAACAAAgACEACAQAAACAABAAAAEBAgAQABADA=</HashCode>
+      <FileName>Direct_game\Level1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpriteSheet">
+    <Position X="12.5" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgIAEAAAAEAEAAABAAgAAAAAAAAQAAA=</HashCode>
+      <FileName>Direct_game\SpriteSheet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
